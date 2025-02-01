@@ -1,3 +1,4 @@
 Name: Alezer S. Boyore
+Section: CS1A
 Program: BS Computer Science
 Address: Liliw, Laguna
